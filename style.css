@@ -1,0 +1,6 @@
+.green-cube {
+  width: 200px; /* Ширина куба */
+  height: 200px; /* Висота куба */
+  background-color: green; /* Зелений колір фону */
+  margin: 200px auto;
+}
